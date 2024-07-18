@@ -1,0 +1,384 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\AdminPanal\\AdminPanal.csproj": {}
+  },
+  "projects": {
+    "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\AdminPanal\\AdminPanal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\AdminPanal\\AdminPanal.csproj",
+        "projectName": "AdminPanal",
+        "projectPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\AdminPanal\\AdminPanal.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\AdminPanal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.APIs\\Talabat.APIs.csproj": {
+                "projectPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.APIs\\Talabat.APIs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.APIs\\Talabat.APIs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.APIs\\Talabat.APIs.csproj",
+        "projectName": "Talabat.APIs",
+        "projectPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.APIs\\Talabat.APIs.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.APIs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Repository\\Talabat.Repository.csproj": {
+                "projectPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Repository\\Talabat.Repository.csproj"
+              },
+              "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Service\\Talabat.Service.csproj": {
+                "projectPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Service\\Talabat.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Core\\Talabat.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Core\\Talabat.Core.csproj",
+        "projectName": "Talabat.Core",
+        "projectPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Core\\Talabat.Core.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.86, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[41.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Repository\\Talabat.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Repository\\Talabat.Repository.csproj",
+        "projectName": "Talabat.Repository",
+        "projectPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Repository\\Talabat.Repository.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Core\\Talabat.Core.csproj": {
+                "projectPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Core\\Talabat.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.86, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Service\\Talabat.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Service\\Talabat.Service.csproj",
+        "projectName": "Talabat.Service",
+        "projectPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Service\\Talabat.Service.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Core\\Talabat.Core.csproj": {
+                "projectPath": "D:\\Career\\Work\\ROUTE\\Cycles\\Cycle 39\\Workshops\\10.Talabat Admin Dashboard\\Data\\Talabat.Demo.Solution\\Talabat.Core\\Talabat.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
